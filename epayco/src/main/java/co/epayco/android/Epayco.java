@@ -34,7 +34,7 @@ public class Epayco {
 
     private static AsyncHttpClient client = new AsyncHttpClient();
 
-    private static final String BASE_URL = "https://75bd3446.ngrok.io/";
+    private static final String BASE_URL = "https://75bd3446.ngrok.io";
     private static final String BASE_URL_SECURE = "https://secure.epayco.co";
 
     private String apiKey;
